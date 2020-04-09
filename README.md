@@ -1,2 +1,2 @@
 # jekyll-scryfall
-A jekyll plugin to fetch card data from Scryfall
+A [jekyll](https://jekyllrb.com/) plugin to fetch Magic: The Gathering card images from the [Scryfall API](https://scryfall.com/docs/api).
